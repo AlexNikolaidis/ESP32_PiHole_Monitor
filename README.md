@@ -7,4 +7,4 @@ https://github.com/russhughes/st7789_mpy
 The firmware I flashed includes thew screen drivers.
 
 
-![plot](https://github.com/AlexNikolaidis/ESP32_PiHole_Monitor/edit/master/IMG.jpeg?raw=true)
+![plot](https://github.com/AlexNikolaidis/ESP32_PiHole_Monitor/blob/master/IMG.jpg?raw=true)
